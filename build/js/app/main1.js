@@ -1,0 +1,1 @@
+define("app/main1",["jquery"],function(e){e("#text").text("RequireJS")});

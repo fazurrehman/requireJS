@@ -1,7 +1,7 @@
 {
     appDir: '../www',
     mainConfigFile: '../www/js/common.js',
-    dir: '../www-built',
+    dir: '../build',
     modules: [
         //First set up the common build layer.
         {
